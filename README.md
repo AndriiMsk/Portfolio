@@ -43,7 +43,7 @@ Red ⭐ = Minimum Volatility, Yellow ⭐ = Maximum Sharpe
 ```bash
 pip install pandas numpy matplotlib seaborn
 
-## 4. Next Steps
+4. Next Steps
 
     Extend with more assets (AMZN, NVDA, JPM, etc.)
 
@@ -51,6 +51,6 @@ pip install pandas numpy matplotlib seaborn
 
     Compare against benchmark (e.g., S&P 500 ETF)
 
-## 5. Author
+5. Author
 
 Project prepared as a practice case for quantitative finance & data analysis portfolio.
