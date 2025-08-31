@@ -26,16 +26,16 @@ and visualize the efficient frontier along with other insights.
 
 ### Efficient Frontier
 Red ⭐ = Minimum Volatility, Yellow ⭐ = Maximum Sharpe  
-![Efficient Frontier](images/efficient_frontier.png)
+![Efficient Frontier](Images/efficient_frontier.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](Images/correlation_heatmap.png)
 
 ### Cumulative Returns
-![Cumulative Returns](images/cumulative_returns.png)
+![Cumulative Returns](Images/cumulative_returns.png)
 
 ### Rolling Volatility
-![Rolling Volatility](images/rolling_volatility.png)
+![Rolling Volatility](Images/rolling_volatility.png)
 
 ---
 
