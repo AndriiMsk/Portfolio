@@ -40,7 +40,7 @@ Red ⭐ = Minimum Volatility, Yellow ⭐ = Maximum Sharpe
 ---
 
 ## 3. Requirements
-```bash
+
 pip install pandas numpy matplotlib seaborn
 
 ---
